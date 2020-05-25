@@ -3,7 +3,8 @@ Week One Tutorial
 
 install https://git-scm.com/download/win
 
-Watch this: https://www.youtube.com/watch?v=SWYqp7iY_Tc
+Watch these: https://www.youtube.com/watch?v=SWYqp7iY_Tc
+https://www.youtube.com/watch?v=USjZcfj8yxE
 
 Alright, so, what I want you to do.
 
