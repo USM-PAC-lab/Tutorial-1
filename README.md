@@ -19,6 +19,8 @@ Add, commit, and push these onto your branch.
 
 Then, go back to the master branch, and merge your branch with the master branch (this has multiple steps in one). 
 
+I already did this in this folder. Essentially, you're replicating it. 
+
 Some resources: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 https://stackoverflow.com/questions/5601931/what-is-the-best-and-safest-way-to-merge-a-git-branch-into-master
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
