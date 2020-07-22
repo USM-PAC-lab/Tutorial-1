@@ -1,0 +1,3 @@
+Some link to get yourself started to git: add, commit, and push
+
+https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
